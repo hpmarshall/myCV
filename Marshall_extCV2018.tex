@@ -1,0 +1,914 @@
+
+\documentclass[11pt]{article}
+
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{listliketab}
+\usepackage{array}
+\usepackage{longtable}
+
+\usepackage{natbib}
+\usepackage{bibentry}
+\usepackage{enumitem}
+%\usepackage{/Users/hpm/D_DRIVE/latex/enumitem/enumitem}
+\nobibliography*
+%\bibliographystyle{apa}
+
+% Palatino font
+%\usepackage[T1]{fontenc}
+%\usepackage[sc,osf]{mathpazo}
+
+\def\name{Hans-Peter Marshall}
+
+\reversemarginpar
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=0.75in,
+  top=1in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+%\setlist{nosep}
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+    \setlength{\itemsep}{0pt}
+    \setlength{\parskip}{0pt}
+  }
+}{
+  \end{list}
+}
+\renewcommand\arraystretch{1}
+
+
+\begin{document}
+\bibliographystyle{apalike}
+
+% Print name centered and bold:
+\centerline{\Large \bf \name}
+
+\vspace{0.25in}
+
+\begin{minipage}{0.70\linewidth}
+  \href{http://earth.boisestate.edu/cryogars/}{Cryosphere Geophysics And Remote Sensing (CryoGARS) group} \\
+  Department of Geosciences and CGISS, Boise State University \\
+  Environmental Research Building (ERB) 1104 (lab), 3155 (office) \\
+  1910 University Drive \\
+  Boise, ID  83725
+\end{minipage}
+\begin{minipage}{0.30\linewidth}
+  \begin{tabular}{l}
+     (208) 426-1416 (office) \\
+     (303) 859-3106 (cell) \\
+    \href{mailto:hpmarshall@boisestate.edu}{hpmarshall@boisestate.edu} \\
+    \href{http://cgiss.boisestate.edu/~hpm}{cgiss.boisestate.edu/$\sim$hpm} \\
+  \end{tabular}
+\end{minipage}
+
+\section*{Education}
+
+\begin{tabular}{ll}
+	2005 & Ph.D, Civil Engineering (Geotechnical), GPA: 3.9/4.0 \\
+	          & Institute of Arctic and Alpine Research, University of Colorado at Boulder \\
+		 & Thesis: \textit{Snowpack spatial variability: towards understanding} \\
+                  &   \textit{its effect on remote sensing measurements and snow slope stability} \\
+	1999 &  B.S., Physics with honors, Geophysics Minor (1$^{st}$ in UW history), GPA: 3.6/4.0 \\
+	         &   University of Washington \\
+	         &  Thesis: \textit{Wet snow densification} \\
+       1994  &  Nathan Hale High School, Seattle, Washington, GPA: 3.9/4.0 \\
+\end{tabular}
+
+\section*{Professional Experience}
+\begin{tabular}{ll}
+08/2013-present & Associate Professor, Department of Geosciences and Center for Geophysical \\
+&   Investigation of the Shallow Subsurface (CGISS), Boise State University \\
+07/2007-present & Geophysical Engineer (Expert Consultant), U.S. Army Corps of Engineers \\
+& Cold Regions Research and Engineering Lab (CRREL), Hanover, New Hampshire \\
+08/2008-07/2013 & Assistant Professor, Professor, Department of Geosciences and Center for Geophysical \\
+&   Investigation of the Shallow Subsurface (CGISS), Boise State University \\
+04/2006-08/2008 & Research Associate, Inst. of Arctic and Alpine Research (INSTAAR) \\
+& University of Colorado at Boulder \\ 
+12/2004-04/2006 & Research Geophysical Engineer (GS-11), Student Career Experiences Program (SCEP) \\
+& U.S. Army Corps of Engineers CRREL, Hanover, New Hampshire \& Fairbanks, Alaska \\
+01/2004-07/2004 & Invited visiting scientist, Swiss Federal Institute for Snow and \\ 
+& Avalanche Research (SLF), Davos, Switzerland \\ 
+07/2000-12/2005 & Research Assistant, INSTAAR, University of Colorado at Boulder \\
+11/2002-12/2003 & Avalanche Instructor, Alpine World Ascents, Boulder, Colorado \\
+06/1995-07/2000 & Undergraduate Research Assistant, Glaciology Group, University of Washington \\
+08/1999-03/2000 & Volunteer high school teacher, Old Crow, Yukon Terr., Canada \\
+Summers 1993-94 & Roofer, Seattle, WA \\
+\end{tabular}
+
+\section*{Research Interests}
+Snow science and glaciology, using geophysics, engineering, and remote sensing \\
+Spatial variability of snow, snow and ice mechanics, snow slope stability, meltwater dynamics \\
+Computational statistics, geostatistics, compressed sensing, instrumentation development \\
+
+
+
+\section*{Honors and Awards}
+\begin{tabular}{ll}
+2018 & NASA Robert H. Goddard Team Award: SnowEx Year 1 Organizing Team \\
+2017 & Incoming Chair of the International Snow Working Group for Remote sensing (ISWGR) \\
+2012 & Timeless Award, University of Washington, 1 of 150 College of Arts and Sciences alumni  \\
+& awarded from UW history on 150th yr anniv. (1861-2011), 1 of 3 from Physics Department \\
+2010-13 & New Investigator Program Award, NASA, 1st in Idaho history \\
+2010 & Young Scientist Award, Cryosphere Section, American Geophysical Union \\
+2009 & Top Reviewer Award, Cold Regions Science and Technology (CRST) \\
+2008 & U.S. Young Scientist Award, International Union of Radio Science (URSI) \\
+2002-05 & N.A.S.A. Earth Systems Science Graduate Fellowship \\
+2003 & Backcountry Access Avalanche Education Support Grant \\
+2003 & Arctic Research Consortium of the U.S. (ARCUS) Award \\
+& for Arctic Research Excellence, Hon. Mention \\
+2002 & University of Colorado Graduate School Student Travel Grant \\
+2001-02 & N.S.F. K-12 Engineering Outreach Fellowship \\
+2002 & Beverly Sears Graduate Research Grant (University of Colorado) \\
+2001 & American Avalanche Association Graduate Research Grant \\
+2000 & Li Tze Fong Memorial Fellowship, University of British Columbia (declined) \\
+1999 & University of Washington Bonderman Honors Travel Fellowship \\
+1999 & Volunteer of the Year, Arctic Canada, Frontiers Foundation \\
+1997-99 & University of Washington Mary Gates Undergraduate Research Grant \\
+1999 & Featured speaker, University of Washington Undergraduate Research Symposium \\
+1995-98 & N.A.S.A. Space Grant Undergraduate Research Program \\
+1999,2001 & N.S.F. Graduate Fellowship Program - Honorable Mention \\
+1994-95,97-99 & Dean's List, Univerity of Washington \\
+1994-95 & U.W. Undergraduate Scholar Award (1994-95) \\
+1994 & Washington Athletic Club Student Athlete of the Year, Nathan Hale High School \\
+\end{tabular}
+
+\section*{Student Awards}
+\begin{tabular}{ll}
+2012 & Andrew Hedrick, M.S. student \\
+& \textit{American Avalanche Association Graduate Student Grant} \\
+2012 & Scott Havens, Ph.D. student \\
+& \textit{$1^{st}$ place poster NSF/NASA EPSCoR annual meeting} \\
+2012 & Kris Burch, Lloyd Lowe II, Kolton Drake, Undergrads, \\ 
+& \textit{Best Senior Project, BSU College of Engineering} \\
+2003 & Adam Maerz, High School student \\
+& \textit{Colorado State Science Fair Finalist}
+\end{tabular}
+
+\pagebreak
+
+\section*{Refereed Publications \small{[h-index=20, i10-index=32, citations=1102]}}
+\setlength{\extrarowheight}{10pt}
+
+\begin{longtable}{p{0.4in}|p{6.2in}}
+in-review & \bibentry{McGrath:inreview} \\
+& \bibentry{Robertson:inreview} \\
+& \bibentry{Deeb:inreview} \\
+& \bibentry{Hedrick:inreview} \\
+2018 &  \bibentry{Graeter:2018} \\
+& \bibentry{Kim:2018} \\
+& \bibentry{Hagenmuller:2018} \\
+2017 & \bibentry{Mikesell:2017} \\
+& \bibentry{Lewis:2017} \\
+& \bibentry{McNamara:2017} \\
+& \bibentry{Pegau:2017} \\
+2016 & \bibentry{Evans:2016} \\
+& \bibentry{Rutter:2016} \\
+& \bibentry{Bradford:2016} \\
+2015 &  \bibentry{Heilig:2015} \\
+& \bibentry{Kormos:2015} \\
+& \bibentry{Hedrick:2015} \\
+  2014 & \bibentry{Kormos:2014} \\
+& \bibentry{Walters:2014} \\
+& \bibentry{Havens:2014} \\
+& \bibentry{Anderson:2014} \\
+& \bibentry{Tinkham:2014} \\
+& \bibentry{McCreight:2014} \\
+& \bibentry{Kormos:2014b} \\
+2013 & \bibentry{Havens:2013} \\
+& \bibentry{Eiriksson:2013} \\
+& \bibentry{Tinkham:2013} \\
+2012 & \bibentry{Mikesell:2012} \\
+2011 & \bibentry{Marshall:2011} \\
+& \bibentry{Geroy:2011} \\
+2010 & \bibentry{Tape:2010} \\
+& \bibentry{Tape:2010b} \\
+& \bibentry{Koh:2010} \\
+2009 & \bibentry{Marshall:2009} \\
+& \bibentry{Lutz:2009} \\
+& \bibentry{Pielmeier:2009} \\
+2008 & \bibentry{Marshall:2008} \\
+& \bibentry{Hardy:2008} \\
+2007 & \bibentry{Marshall:2007} \\
+& \bibentry{ONeel:2007} \\
+& \bibentry{Waddington:2007} \\
+2005 & \bibentry{Marshall:2005} \\
+2004 & \bibentry{Marshall:2004} \\
+2002 & \bibentry{Marshall:2002} \\
+1999 & \bibentry{Marshall:1999} \\
+& \bibentry{Conway:1999} \\
+& \bibentry{Morse:1999} \\
+\end{longtable}
+
+\pagebreak
+
+\section*{Refereed Book Chapters / Technical Reports}
+\begin{longtable}{p{0.3in}|p{6.2in}}
+2015 & \bibentry{Marshall:2015} \\
+ & \bibentry{Arenson:2015} \\
+2014 & \bibentry{Havens:2014b} \\
+2013 & \bibentry{Rott:2013} \\
+\end{longtable}
+
+\section*{Magazine Articles / Podcasts}
+\begin{longtable}{p{0.3in}|p{6.2in}}
+2013 & \bibentry{Durham:2013} \\
+2012 & \bibentry{Marshall:2012} \\
+2011 & \bibentry{Marshall:2011b} \\
+\end{longtable}
+
+\section*{Archived Datasets}
+\begin{longtable}{p{0.3in}|p{6.2in}}
+2018 & \bibentry{Elder:2018} \\
+2018 & \bibentry{Brucker:2018} \\
+2004 & \bibentry{Marshall:2004} \\
+\end{longtable}
+
+\pagebreak
+
+
+\begin{table}[!htbp]
+\section*{Research Funding Summary}
+\renewcommand\arraystretch{0.7}
+%\small
+  \centering
+  \begin{tabular}{|l|l|l|l|r|}
+\hline
+\textbf{Agency} & \textbf{Short Title} & \textbf{Role} & \textbf{Dates} & \textbf{Amount} \\ \hline \hline
+NASA & NASA SnowEx Ground-based Radar & Co-PI & 6/2018-6/2021 &  \$444,742 \\ \hline
+NASA & NASA SnowEx Y1 Data Assimilation & Co-PI & 6/2018-6/2021 &  \$421,212 \\ \hline
+NASA & Spatiotemporal Patterns in GBRS & PI & 6/2017-6/2022 & \$460,719 \\ \hline
+NASA & L-Band InSAR for snow depth and SWE & Co-PI & 6/2017-6/2022 & \$450,000 \\ \hline
+NASA JPL & ASO and UAVSAR data fusion & PI &  6/2017-7/2018 & \$21,103 \\ \hline
+U.S. DOTs & Infrasound Avalanche Detection & PI & 6/2017-8/2018 &  \$99,339 \\ \hline
+NASA & Broadband Array IIP - Phase 2 & PI & 02/2015-05/2017 & \$330,000 \\ \hline
+NSF & GreenTRACS & PI & 01/2015-12/2017 & \$355,338 \\ \hline
+NASA & Multi-frequency Data Assimilation & Co-PI & 07/2015-06/2018 & \$295,577 \\ \hline
+NASA & Monitoring Earth's Hydrosphere & Co-PI & 06/2014-05/2017 &  \$749,870  \\ \hline
+U.S. Army & SWE estimates using radar phase & Co-PI & 10/2013- 9/2016 & \$490,800 \\ \hline
+OGP & Remote Sensing Tests with Oil in Ice & Co-PI & 01/2014-12/2014 & \$128,739 \\ \hline
+NASA & NASA Snow School & Co-PI & 01/2014-12/2014 & \$65,385 \\ \hline
+NSF & MRI: Laser-ultrasonic Ice Core Tomography & Co-PI & 09/2012-08/2013 & \$336,122 \\ \hline
+NSF & MRI:GPU Computing/Visualization Cluster & Co-PI & 09/2012-08/2013 & \$555,384 \\ \hline
+NSF & Measuring Sublimation with Isotopes & Co-PI & 04/2012-04/2013 & \$19,912 \\ \hline
+IDT & Avalanche Detection & PI & 09/2012-08/2015 & \$100,000 \\ \hline
+NASA & WISM IIP - Phase 1 & PI & 11/2011-12/2014 & \$94,947 \\ \hline
+NASA & Remote Sensing of the Cryosphere & PI & 01/2011-12/2013 & \$1,124,552 \\ \hline
+NASA & Improvement of Remotely Sensed SWE & PI & 09/2010-08/2013 & \$329,953 \\ \hline
+NSF & Lateral Flow of Water in Snow & PI & 04/2010-03/2013 & \$228,963 \\ \hline
+NASA & Earth Systems Science Fellowship & PI & 09/2010-12/2013 & \$90,000 \\ \hline
+D.F. Dickins & Oil Detection Radar & PI & 01/2010-12/2012 & \$328,747 \\ \hline
+IDT & Avalanche Modeling & PI & 09/2010-08/2012 & \$10,000 \\ \hline
+NASA & CLPX-II Grand Mesa, Colorado & PI & 08/2010-08/2012 & \$35,468 \\ \hline
+NASA & Investigation of Snowpack Properties & PI & 08/2006-07/2009 & \$462,132 \\ \hline
+NSF & Radar for Measuring Water Pathways & PI & 09/2005-08/2010 & \$69,785 \\ \hline
+& &  & \textbf{TOTAL} & \textbf{\$7,999,450} \\ \hline
+\end{tabular} %\label{table:quality}
+\end{table}
+
+\pagebreak
+
+\section*{Awarded Research Grants}
+\begin{itemize} 
+
+\item [6/2018-6/2021] NASA Terrestrial Hydrology Program 2017
+\begin{itemize}
+\item \textit{Constraining airborne and satellite algorithms for estimating snow water equivalent through spatially extensive ground penetrating radar observations during NASA's SnowEx campaign}
+\item Co-PI, \$444,742
+\item PI: Dan McGrath (Colorado State Univ.), Co-PI: Ryan Webb (Univ. Colorado)
+\end{itemize}
+
+\item [6/2018-6/2021] NASA Terrestrial Hydrology Program 2017
+\begin{itemize}
+\item \textit{Using SnowEx Year 1 Data to Assess and Improve Snow Measurements, Validation, Algorithms, and Data Assimilation in Forest and Shrubland Landscapes}
+\item Co-PI, \$421,212
+\item PI: Chris Hiemstra (CRREL), Co-PIs: Kelly Elder (USFS), Ludo Brucker (NASA Goddard)
+\end{itemize}
+
+\item [6/2017-6/2022] NASA Terrestrial Hydrology Program 2016
+\begin{itemize}
+\item \textit{Spatiotemporal patterns in ground-based snow remote sensing and in-situ observations: Analysis of CLPX-II, CoreH2O, and SnowEx Y1 data for sampling design and site selection}
+\item Principal Investigator, \$460,719
+\item Co-PIs: Kelly Elder (USFS), Eli Deeb (CRREL), Ludo Brucker (NASA Goddard)
+\end{itemize}
+
+\item [6/2017-6/2022] NASA Terrestrial Hydrology Program 2016
+\begin{itemize}
+\item \textit{Remote sensing strategies and requirements for L-Band interferometric snow depth and snow water equivalent estimation}
+\item Co-PI, \$450,000
+\item PI: Eli Deeb (CRREL), Co-PIs: Rick Forster (Univ. Utah), Cathleen Jones (NASA JPL), Chris Hiemstra (CRREL)
+\end{itemize}
+
+\item [6/2017-8/2018] NASA Jet Propulsion Laboratory, CalTech
+\begin{itemize}
+\item \textit{ASO and UAVSAR Data Fusion: Exploring the Advantages of Combining Airborne LIDAR and InSAR}
+\item Principal Investigator, \$21,103
+\end{itemize}
+
+\item [6/2017-8/2018] Consortium of U.S. Department of Transportation Avalanche Forecasting Programs
+\begin{itemize}
+\item \textit{Infrasound Avalanche Detection: Comparison Study of Multiple New Technologies}
+\item Principal Investigator, \$99,339
+\item Co-PIs: Jeff Johnson, Sin Ming Loo (BSU)
+\end{itemize}
+
+\item [2/2015-5/2017] NASA Instrument Incubator Program (IIP) - Phase 2
+\begin{itemize}
+\item \textit{Broadband Array Technology in Support of the Snow and Cold Land Process (SCLP) Mission}
+\item Principal Investigator, \$330,000
+\end{itemize}
+
+\item [1/2015-12/2017] NSF Office of Polar Programs
+\begin{itemize}
+\item \textit{Collaborative Research: GreenTrACS: Greenland Traverse for \\ Accumulation and Climate Studies}
+\item Principal Investigator, \$355,338
+\item Co-PI: John Bradford (BSU)
+\end{itemize}
+
+\item[7/2015-6/2018] NASA Terrestrial Hydrology Program (THP)
+\begin{itemize}
+\item \textit{Multiple Frequency Active Microwave Remote Sensing for Snow Water Equivalent Retrieval from Space: A Data Assimilation Approach}
+\item Co-PI, \$295,577
+\item PI: Lejo Flores (BSU)
+\end{itemize}
+
+\item[6/2014-6/2018] NASA Experimental Program to Stimulate Competitive Research (EPSCoR)
+\begin{itemize}
+\item \textit{Monitoring Earth's Hydrosphere: Integrating Remote Sensing, Modeling, and Verification}
+\item Co-PI, \$749,870
+\item PI: Lejo Flores, Co-PIs: Jim McNamara, Nancy Glen (BSU)
+\end{itemize}
+
+\item[10/2013-9/2016] U.S. Army Basic Research Program
+\begin{itemize}
+\item \textit{Quantifying the accuracy of Snow Water Equivalent estimates using radar phase over a wide range of frequencies and varying snow conditions}
+\item Co-PI, \$490,800
+\item PI: Eli Deeb (CRREL), Co-PI: Steve Arcone (CRREL)
+\end{itemize}
+
+\item[1/2014-12/2014] NASA Terrestrial Hydrology Program (THP)
+\begin{itemize}
+\item \textit{NASA Snow School}
+\item Co-PI, \$65,340
+\item PI: Mark Sereze (National Snow and Ice Data Center), Co-PIs: Michael Durand (Ohio State University), Kelly Elder (USFS),
+Jessica Lundquist (University of Washington), Noah Molotch (University of Colorado), Matthew Sturm (University of Alaska, Fairbanks)
+\end{itemize}
+
+\item[01/2014-12/2014] International Association of Oil and Gas Producers (OGP)
+\begin{itemize}
+\item \textit{Program Design and Management for Remote Sensing Tests with Oil in Ice}
+\item Co-PI, \$1,409,449 total, BSU portion: \$128,731
+\item BSU PI: John Bradford
+\item Collaborators: Oil Spill Recovery Institute, University of Alaska Fairbanks, Prince William Sound Science Center, U.S. Army Cold Regions Research and Engineering Laboratory (CRREL), Polar Ocean Services, Woods Hole Oceanographic Institute, Norbit, Inland Gulf Marine, University of Washington
+\end{itemize}
+
+\item[09/2012-08/2013] NSF Major Research Instrumentation
+\begin{itemize}
+\item \textit{MRI: Acquisition of a GPU-accelerated High Performance Computing} \\ 
+\textit{and Visualization Cluster}
+\item Co-PI, \$555,384
+\item PI: Inanc Senocak, Co-PIs: Peter Mullner, Jodi Mead, Tim Anderson (BSU)
+\end{itemize}
+
+\pagebreak
+
+\item[09/2012-08/2013] NSF Major Research Instrumentation
+\begin{itemize}
+\item \textit{MRI: Development of a laser-ultrasonic ice core tomography system}
+\item Co-PI, \$336,122
+\item PI: Kasper Van Wijk (BSU)
+\end{itemize}
+
+\item[04/2012-04/2013] NSF Hydrologic Sciences
+\begin{itemize}
+\item \textit{RAPID: An unusual opportunity to track snow ablation using stable isotope evolution of the 2011-2012 snowpack near Boise, Idaho}
+\item Co-PI, \$19,912
+\item PI: Sam Evans, Co-PIs: Alejandro Flores, Matt Kohn (BSU)
+\end{itemize}
+
+\item[09/2012-08/2015] Idaho Department of Transportation
+\begin{itemize}
+\item \textit{Development of an operational infrasonic avalanche detection system for Highway 21, Idaho}
+\item Principal Investigator, \$100,000
+\item Co-PIs: Scott Havens, Jeff Johnson (BSU)
+\end{itemize}
+
+\item[01/2011-12/2013] NASA Experimental Program to Stimulate Competitive Research (EPSCoR)
+\begin{itemize}
+  \item \textit{Remote sensing of the Cryosphere: calibration and validation}
+  \item Science Principal Investigator, \$1,124,552 (\$374,932 university match)
+  \item Co-PI: John Bradford, Kasper Van Wijk, Jim McNamara, and \\
+        Alejandro Flores, BSU Geosciences (BSU)
+\end{itemize}
+
+\item[09/2010-08/2013] NASA New Investigator Program
+\begin{itemize}
+  \item \textit{Improvement of remotely sensed snow water equivalent estimates 
+  from microwave radar}
+  \item Principal Investigator, \$329,953 (1st in Idaho history)
+\end{itemize}
+
+\item[04/2010-03/2013] NSF Hydrological Sciences Program
+\begin{itemize}
+  \item \textit{Quantifying lateral flow of water in alpine snowpacks using \\
+  high-resolution geophysical techniques}
+  \item Principal Investigator, \$228,963
+  \item Co-PI: John Bradford and Jim McNamara, BSU
+\end{itemize}
+
+\item[09/2010-12/2013] NASA Earth and Space Science Fellowship
+\begin{itemize}
+  \item \textit{Characterizing snow microstructure with X-ray tomography and a snow micropenetrometer: understanding important effects of microstructure on remote sensing}
+  \item Principal Investigator, \$90,000 
+  \item Student: Scott Havens
+\end{itemize}
+
+\item[01/2010-12/2012] DF Dickins Associates and consortium of oil companies
+\begin{itemize}
+  \item \textit{Detecting oil on and under sea ice using ground-penetrating radar: \\ 
+proposal for developing a new airborne system}
+  \item Principal Investigator, \$328,747
+  \item Co-PI: John Bradford, BSU 
+\end{itemize}
+
+\item[09/2010-08/2011] Idaho Department of Transportation Research Program
+\begin{itemize}
+  \item \textit{Development of an avalanche forecasting model for Highway 12 and 21}
+  \item Principal Investigator, \$10,000
+\end{itemize}
+
+\item[11/2011-12/2014] NASA Instrument Incubator Program (IIP) - Phase 1
+\begin{itemize}
+\item \textit{An 8-40 GHz Wideband Instrument for Snow Measurements (WISM)}
+\item Principal Investigator for BSU subcontract, BSU portion \$94,947
+\item Collaborative proposal with Harris Corporation, NASA Goddard, 
+\item University of Washington, Nuvotronics LLC
+\end{itemize}
+
+\item[08/2010-08/2012] NASA Terrestrial Hydrology Program
+\begin{itemize}
+\item \textit{Ground-based radar calibration / validation measurements for \\ NASA CLPX-II 2010, Grand Mesa, Colorado}
+\item Principal Investigator, \$35,468
+\end{itemize}
+
+\item[08/2006-07/2009] NASA Energy and Water-cycle Sponsored (NEWS) Research \\
+and Terrestrial Hydrolology Program (THP)
+\begin{itemize}
+  \item \textit{Investigation of Spatial and Temporal Variation in Snowpack Properties \\
+  Using Ground-Based High Resolution Microwave Radar Combined with \\
+  Detailed Snowpack Characterization}
+  \item Principal Investigator, \$462,132 (\$114,232 moved to BSU when hired)
+  \item Co-I: Nick Rutter (Northumbria University, U.K), Rick Forster (University of Utah)
+\end{itemize}
+
+\item[09/2005-08/2010] NSF Arctic Sciences Program
+\begin{itemize}
+  \item \textit{Collaborative Research: Polarimetric Characteristics of Radio-wave 
+  Scattering from Water Pathways within Glaciers: Laboratory Experiments and Computer 
+  Simulations}
+  \item Principal Investigator, \$69,785
+  \item Co-PI: Kenichi Matsuoka (University of Washington)
+\end{itemize}
+\end{itemize}
+
+\pagebreak
+
+\section*{Primary Advising}
+\begin{table}[!htbp]
+\renewcommand\arraystretch{0.7}
+  \centering
+  \begin{tabular}{|l|l|l|l|l|}
+\hline
+\textbf{Name} & \textbf{Degree} & \textbf{Advisor Role} & \textbf{Program/University} & \textbf{Graduation} \\ \hline \hline
+Achim Heilig & Post-Doc & Primary & Geophysics/BSU & 01/11-12/12 \\ \hline
+Andrew Hedrick & Ph.D. & Primary & Geophysics/BSU & exp. Spring 2019 \\ \hline
+Joel Gongora & Ph.D. & Primary & Geophysics/BSU & exp. Spring 2019 \\ \hline
+Scott Havens & Ph.D. & Primary & Geophysics/BSU & Fall 2014 \\ \hline
+Hank Hetrick & Ph.D. & Primary & Geophysics/BSU & exp. Summer 2018 \\ \hline
+Chago Rodriguez & Ph.D. & Primary & Geophysics/BSU & exp. Spring 2019 \\ \hline
+Megan Mason & M.S. & Primary & Geophysics/BSU & exp. Fall 2019 \\ \hline
+Tate Meehan & M.S. & Co-primary & Geophysics/BSU & Spring 2018 \\ \hline
+Andrew Hedrick & M.S. & Primary & Geophysics/BSU & Fall 2013 \\ \hline
+Jesse Dean & M.S. & Primary & Geophysics/BSU & Fall 2016 \\ \hline
+Mark Robertson & M.S. & Primary & Geophysics/BSU & Fall 2016 \\ \hline
+Gabriel Trisca & M.S. & Primary & Computer Science/BSU & Spring 2014 \\ \hline
+Peter Olsoy & Undergrad & Primary & Biology/BSU & Spring 2011 \\ \hline
+Jennifer Morris & Undergrad & Primary & Geosciences/BSU & Spring 2011 \\ \hline
+Jason Jennings & Undergrad & Primary & Geophysics/BSU & Spring 2012 \\ \hline
+Andrew Peterson & Undergrad & Primary & Geophysics/BSU & Spring 2012 \\ \hline
+Jake Robertson & Undergrad & Primary & Geosciences/BSU & Spring 2013 \\ \hline
+Rachel Parsons & Undergrad & Primary & Geosciences/BSU & Spring 2013 \\ \hline
+Mark Robertson & Undergrad & Primary & Geophysics/BSU & Fall 2012 \\ \hline
+Andrew Karlson & Undergrad & Primary & Geosciences/BSU & Spring 2016 \\ \hline
+Robert Florence & Undergrad & Primary & Geosciences/BSU & Spring 2015 \\ \hline
+Kris Burch & Undergrad & Primary & ECE/BSU & Spring 2012 \\ \hline
+Lloyd Lowe II & Undergrad & Primary & ECE/BSU & Spring 2012 \\ \hline
+Kolton Drake & Undergrad & Primary & ECE/BSU & Spring 2012 \\ \hline
+\end{tabular}
+\end{table}
+
+\pagebreak
+
+\section*{Committee Member / Secondary Advising}
+\begin{table}[!htbp]
+\renewcommand\arraystretch{0.7}
+  \centering
+  \begin{tabular}{|l|l|l|l|l|}
+\hline
+\textbf{Name} & \textbf{Degree} & \textbf{Advisor Role} & \textbf{Program/University} & \textbf{Graduation} \\ \hline \hline
+Miguel Aguayo & Ph.D. & Committee & Geosciences/BSU & exp. Summer 2018 \\ \hline
+Katelyn Watson & Ph.D. & Committee & Geosciences/BSU & exp. Summer 2018 \\ \hline
+Jake Anderson & Ph.D. & Committee & Geophysics/BSU & exp. Summer 2018 \\ \hline
+Kara Ferguson & M.S. & Committee & Geosciences/BSU & exp. Spring 2018 \\ \hline
+Zakk Hess & M.S. & Committee & Geosciences/BSU & exp. Fall 2018 \\ \hline
+Zach Uhlmann & M.S. & Committee & Geosciences/BSU & exp Summer 2018 \\ \hline
+Megan Gallagher & M.S. & Committee & Geophysics/BSU & exp Summer 2018 \\ \hline
+William Rudisill & M.S. & Committee & Geosciences/BSU & exp Spring 2018 \\ \hline
+Lacie Rasley & M.S. & Committee & Geosciences/BSU & exp Spring 2018 \\ \hline
+Eric Lutz & Ph.D. & Committee & Geosci./Montana State Univ. & Spring 2009 \\ \hline
+James McCreight & Ph.D. & Committee & Civil Eng./Univ. Colorado & Fall 2011 \\ \hline
+Dylan Mikesell & Ph.D. & Committee & Geophysics/BSU & Fall 2011 \\ \hline
+Joel Brown & Ph.D. & Committee & Geophysics/BSU & Fall 2011 \\ \hline
+Eli Deeb & Ph.D. & Committee & Geography/Univ. Utah & Fall 2012 \\ \hline
+Thomas Blum & Ph.D. & Committee & Geophysics/BSU & Spring 2013 \\ \hline
+Patrick Kormos & Ph.D. & Committee & Geosciences/BSU & Fall 2013 \\ \hline
+Wade Tinkham & Ph.D. & Committee & Forest Ecol., Biogeosci./U of I  & Spring 2013 \\ \hline
+Nicolas Kinar & Ph.D. & External Examiner & Hydrology, U of Saskatchewan & Fall 2013 \\ \hline
+Esther Babcock & Ph.D. & Committee & Geophysics/BSU & Spring 2015 \\ \hline
+Brian Terbush & M.S. & Committee & Geosciences/BSU & Spring 2015 \\ \hline
+Ravi Preeshageetha & M.S. & Committee & Computer Science/ BSU & Spring 2015 \\ \hline
+Josh Nichols & M.S. & Committee & Geophysics/BSU & Spring 2010 \\ \hline
+Emily Park & M.S. & Committee & Geophysics/BSU & Spring 2011 \\ \hline
+Alden Shallcross & M.S. & Committee & Geosciences/BSU & Fall 2011 \\ \hline
+Brian Anderson & M.S. & Committee & Geosciences/BSU & Spring 2011 \\ \hline
+David Eiriksson & M.S. & Committee & Geosciences/BSU & Spring 2012 \\ \hline
+Reggie Walters & M.S. & Committee & Geosciences/BSU & Fall 2013 \\ \hline
+Erik Boe & M.S. & Committee & Geosciences/BSU & Fall 2013 \\ \hline
+\end{tabular}
+\end{table}
+
+\pagebreak
+
+
+\begin{table}[!htbp]
+\section*{Teaching - BSU Courses Taught}
+\renewcommand\arraystretch{0.7}
+  \centering
+  \begin{tabular}{|l|l|c|c|}
+\hline
+\textbf{Course Number/Name} & \textbf{Semester} & \textbf{Credits} & \textbf{\# grad/ugrad} \\ \hline \hline
+
+GEOS 486: Geosciences Capstone & Spring 2016 & 4 & 0/1 \\ \hline
+GEOPH 566: Snow and Ice Physics & Spring 2016 & 3 & 4/0 \\ \hline
+GEOPH 567: Snow Science Field Methods & Spring 2016 & 2 & 1/0 \\ \hline
+%GEOPH 593: Thesis Research & Spring 2016 & 1 & 2/0 \\ \hline
+%GEOPH 693: Dissertation & Spring 2016 & 4-9 & 4/0 \\ \hline
+%GEOPH 593: Thesis Research & Fall 2015 & 1 & 2/0 \\ \hline
+%GEOPH 693: Dissertation & Fall 2015 & 2-8 & 4/0 \\ \hline
+%GEOPH 593: Thesis Research & Spring 2015 & 1-9 & 3/0 \\ \hline
+%GEOPH 693: Dissertation & Spring 2015 & 1-8 & 2/0 \\ \hline
+GEOPH 422/522: Data Analysis and Geostatistics & Fall 2014 & 3 & 12/1 \\ \hline
+%GEOPH 593: Thesis Research & Fall 2014 & 6-8 & 3/0 \\ \hline
+%GEOPH 693: Dissertation & Fall 2014 & 8-9 & 2/0 \\ \hline
+GEOPH 502: Processes and Properties of the Earth II & Spring 2014 & 4 & 4/0 \\ \hline
+GEOPH 467/567: Snow Science Field Methods & Spring 2014 & 2 & 1/1 \\ \hline
+GEOPH 480: Research in Geophysics & Spring 2014 & 3 & 0/1 \\ \hline
+%GEOPH 593: Thesis Research & Spring 2014 & 2-3 & 3/0 \\ \hline
+%GEOPH 693: Dissertation & Spring 2014 & 3-8 & 3/0 \\ \hline
+GEOPH 422/522: Data Analysis and Geostatistics & Fall 2013 & 3 & 16/0 \\ \hline
+GEOPH 502: Properties and Processes of the Earth II & Spring 2013 & 4 & 5/0 \\ \hline
+GEOPH 467/567: Snow Science Field Methods & Spring 2013 & 2 & 2/1 \\ \hline
+GEOPH 466/566: Snow and Ice Physics & Spring 2012 & 3 & 9/4 \\ \hline
+GEOPH 480: Research in Geophysics & Spring 2012 & 2 & 0/2 \\ \hline
+%GEOPH 593: Thesis & Spring 2012 & 1 & 1/0 \\ \hline
+%GEOPH 693: Dissertation & Spring 2012 & 5 & 1/0 \\ \hline
+GEOPH 422/522: Data Analysis and Geostatistics & Fall 2011 & 3 & 9/2 \\ \hline
+GEOPH 497/597: Snow Radar Remote Sensing & Fall 2011 & 1 & 7/2 \\ \hline
+GEOPH 480: Research in Geophysics & Fall 2011 & 2 & 0/2 \\ \hline
+GEOPH 497/597: Snow Science Field Methods & Spring 2011 & 2 & 5/7 \\ \hline
+%GEOPH 693: Dissertation & Spring 2011 & 6 & 1/0 \\ \hline
+GEOPH 497/597: Data Analysis and Geostatistics & Fall 2010 & 3 & 11/2 \\ \hline
+GEOPH 497/597: Snow and Ice Physics & Spring 2010 & 3 & 7/2 \\ \hline
+%GEOPH 593: Thesis Research & Spring 2010 & 5 & 1/0 \\ \hline
+GEOPH 497/597, CE 497/597: Data Analysis / Geostat. & Fall 2009 & 3 & 18/1  \\ \hline
+GEOPH 305: Applied Geophysics, w/ John Bradford & Spring 2009 & 3 & 0/5 \\ \hline
+\textbf{TOTAL} &  & \textbf{55} & \textbf{111/34} \\ \hline
+\end{tabular}
+%\label{table:quality}
+\end{table}
+
+%\pagebreak
+
+\section*{Teaching - Other Courses}
+\begin{itemize}
+\item[01/2003-06/2003] T.A., \textit{The Weather}, Program on Ocean and Atmospheric Sciences, Univ. CO
+\item[01/2000-06/2000] T.A., \textit{Engineering Geology}, Dept. of Civil Engineering, Univ. CO
+\item[12/2002-12/2003] Instructor, \textit{Avalanche Level I}, Alpine World Ascents
+\item[08/2001-06/2002] N.S.F. K-12 Outreach Fellow
+\item \textit{Provided lectures/hands-on demonstrations to local 7th and 8th grade 
+classes on glaciology and avalanche related topics; communicated via website with students 
+during field season in W. Antarctica. Supervised high-school student on avalanche-related 
+senior research project.}
+
+\pagebreak
+
+\item[09/1999-03/2000] Volunteer High School Teacher, Old Crow, Yukon Territory
+\item \textit{Developed and taught individualized curriculum for at-risk high school youth in this 
+small isolated Arctic village of Gwitch'in First Nation people.  Supervised construction 
+on Youth Center, obtained funding for and organized week-long hunting and cultural 
+activities field trip, created afterschool and evening basketball program. (see also Honors 
+/ Awards)}
+\end{itemize}
+
+\section*{University Service}
+\begingroup
+\renewcommand\arraystretch{0.7}
+\begin{longtable}{p{1.2in}|p{5.7in}}
+08/2012-12/2015 & Graduate Program Committee, Geophysics Rep. \\
+2013 & Chair, hiring committee, Geophysics Faculty \\ 
+09/2008-09/2011 & Undergraduate Cirriculum Committee, Geophysics Rep. \\
+2012 & Hiring committee, COAS Scientific Instrumentation Shop, Geosciences rep. \\
+2011,2014 & Hiring committee, Geophysics Faculty position, Geoscience department \\
+Fall 2010 & Organized installation of INL software in Mini-Cave 3-D Visualization Laboratory \\
+01/09-present & Established geodetic/survey grade GPS instrument pool for department \\
+2010 & Co-PI, BSU designated a NVIDIA CUDA HPC research center (one of 20 worldwide)  \\
+2011-present & Organize avalanche training and maintain pool of avalanche safety equipment for BSU \\ 
+\end{longtable}
+\endgroup
+
+
+\section*{External Service}
+\begingroup
+\renewcommand\arraystretch{0.7}
+\begin{longtable}{p{1.2in}|p{5.7in}}
+2016 & NASA Earth Venture Mission Panel Member (proposals for future Earth \\ 
+& observation satellites) \\
+01/2015-present & Education board member, NASA international Snow Working Group for \\ 
+& Remote Sensing (iSWGR) \\
+02/2015, 01/2016 & Instructor, NASA iSWGR field school \\
+12/2008-present & Session Chair, Fall AGU Meeting (16 total sessions 2008-2012) \\
+Jan 6-8, 2012 & Co-organizer, \textit{SEG Cryosphere Geophysics Workshop: Understanding a Changing Climate with Subsurface Imaging}, Boise, ID \\
+12/2008-01/2012 & Cryosphere Section Representative, Fall AGU meeting \\
+&\textit{2 trips per year to Washington, D.C. to organize Cryosphere program ($>$ 500 
+submissions annually) for largest geophysics meeting in U.S. ($>$15,000 submissions)} \\
+2011 & NASA Senior Review Panel Member (review of all 13 active Earth Science NASA Missions)  \\
+2010-2011 & Lead Guest Editor: CRST special issue for the \textit{2010 International Snow
+Science Workshop} (premier snow science meeting worldwide) \\
+12/2010 & Invited Keynote Speaker at the PRYN/APECS Career Development Workshop \\
+& \textit{Involving the next generation in Cryospheric Sciences: Getting advising and mentoring experience during graduate school through participation in undergraduate and high school research programs} \\
+
+\pagebreak
+
+03/2008,04/2009 & Co-organized and taught Snow Characterization Workshop with Dr. Martin Schneebeli, Swiss Federal Institute for Snow and Avalanche Research (SLF) \\
+& \textit{3 day classroom and field-based workshop held in Silverton, Colorado in 2008 at the Center for Snow and Avalanche Studies, 10 invited graduate students and scientists from different U.S. universities.  Invited to repeat workshop in 2009 in Manali, India, by the Indian Department of Defense Snow and Avalanche Study Establishment (SASE), more than 30 Indian Ph.D. scientists attended.} \\
+01/2005-08/2011 & Chair of Research Committee, American Avalanche Association \\
+& \textit{Administered four grants per year, only funding source specifically for snow avalanche research in U.S.} \\
+
+01/2004-present & Journal Reviewer: \textit{Cold Regions Science and Technology; 
+Hydrologic Processes; Journal of Geophysical Research - Earth Surface; Journal of 
+Geophysical Research - Atmospheres; Annals of Glaciology; Water Resources Research; 
+Earth Surface Processes and Landforms; Journal of Glaciology; Transactions on Geoscience
+and Remote Sensing; Remote Sensing of Environment; Arctic, Antarctic, and Alpine Research;
+Geoscience and Remote Sensing Letters; Near Surface Geophysics; Northwest Science; Journal of Applied Geophysics} \\
+
+04/2008-present & Proposal Reviewer: \textit{NASA Terrestrial Hydrology Program (panel member); 
+NSF Experimental Program to Stimulate Competitive Research (EPSCoR) program; NSF Arctic Sciences; NASA Cryospheric Sciences IceBridge (panel member); NSF Geophysics; NSF Hydrologic Sciences; American Avalanche Association} \\
+
+2010 & Organized and delivered \textit{Snow Day} at the Discovery Center of Idaho \\
+2011-present & Train volunteers and develop curriculum for Bogus Basin \textit{Snow School} \\
+06/2007-09/2009 & Research Committee, Eastern Snow Conference \\
+10/2009-09/2012 & Research committee, American Institute for Avalanche Research and Education \\
+09/2006 & Session Chair, Fracture Mechanics, International Snow Science Workshop \\
+& \textit{also reviewed papers and helped plan this international conference; 
+more than 800 total attendees}  \\
+2001-2005 & Senior Research Project Mentor for 6 Boulder Valley HS students \\
+& \textit{Awards: 2002: Earth Sciences 1st Place, State and Nat. Finalist, Best in Show 
+(Adam Maerz); 2001: Earth Sciences 3rd Place (John Powers)} \\
+\end{longtable}
+\endgroup
+
+\section*{Conference Proceedings Papers}
+\setlength{\extrarowheight}{10pt}
+\begin{longtable}{p{0.3in}|p{6.2in}}
+2014 & \bibentry{Marshall:2014c} \\
+& \bibentry{Dean:2014c} \\
+2014 & \bibentry{Elder:2014c} \\
+& \bibentry{Havens:2014c} \\
+& \bibentry{Hedrick:2014c} \\
+& \bibentry{Lutz:2014c} \\
+& \bibentry{Robertson:2014c} \\
+& \bibentry{Rodriguez:2014c} \\
+2012 & \bibentry{Marshall:2012c} \\
+& \bibentry{Havens:2012c} \\
+& \bibentry{Hedrick:2012c} \\
+& \bibentry{Heilig:2012c} \\
+2008 & \bibentry{Marshall:2008c} \\
+& \bibentry{Marshall:2008d} \\
+2008 & \bibentry{Marshall:2008e} \\
+& \bibentry{PielmeierMarshall:2008} \\
+& \bibentry{Gleason:2008c} \\
+& \bibentry{Lutz:2008c} \\
+2007 & \bibentry{Marshall:2007c} \\
+& \bibentry{Demuth:2007c} \\
+2006 & \bibentry{Demuth:2006c} \\
+& \bibentry{Marshall:2006c} \\
+& \bibentry{GleasonMarshall:2006} \\
+& \bibentry{Pielmeier:2006c} \\
+2005 & \bibentry{KohMarshall:2005} \\
+2004 & \bibentry{Hayes:2004c} \\
+2004 & \bibentry{Marshall:2004c} \\
+2002 & \bibentry{Marshall:2002c} \\
+1998 & \bibentry{Marshall:1998c} \\
+\end{longtable}
+
+\section*{AGU Talks}
+\begin{longtable}{p{0.3in}|p{6.2in}}
+2015 & \bibentry{McNamara:2015agu} \\
+& \bibentry{Lewis:2015agu} \\
+& \bibentry{Deeb:2015agu} \\
+2014 & \bibentry{Marshall:2014agu} \\
+& \bibentry{Hedrick:2014agu2} \\
+& \bibentry{Deeb:2014agu} \\
+& \bibentry{Havens:2014agu} \\
+& \bibentry{McNamara:2014agu} \\
+2013 & \bibentry{Robertson:2013agu} \\
+2012 & \bibentry{Gusmeroli:2012agu} \\
+2011 & \bibentry{Alexander:2011agu} \\
+2010 &  \bibentry{Marshall:2010agu} \\
+&  \bibentry{Yueh:2010agu} \\
+&  \bibentry{Bradford:2010agu} \\
+&  \bibentry{Johnson:2010agu} \\
+2009 &  \bibentry{Marshall:2009agu2} \\
+&  \bibentry{McCreight:2009agu} \\
+&  \bibentry{Lutz:2009agu} \\
+2008 &  \bibentry{Marshall:2008agu} \\
+2008 &  \bibentry{Rutter:2008agu} \\
+2007 &  \bibentry{Marshall:2007agu} \\
+&  \bibentry{Matsuoka:2007agu} \\
+2006 &  \bibentry{Marshall:2006agu} \\
+2005 &  \bibentry{McNamara:2005agu} \\
+2003 &  \bibentry{Marshall:2003agu} \\
+2001 &  \bibentry{Pfeffer:2001agu} \\
+\end{longtable}
+
+\section*{AGU Posters}
+\begin{longtable}{p{0.3in}|p{6.2in}}
+2014 & \bibentry{Marks:2014agu} \\
+& \bibentry{Hedrick:2014agu} \\
+& \bibentry{Robertson:2014agu} \\
+2013 & \bibentry{Havens:2013agu} \\
+2013 & \bibentry{Hetrick:2013agu} \\
+& \bibentry{Watson:2013agu} \\
+& \bibentry{Tinkham:2013agu} \\
+& \bibentry{Marshall:2013agu} \\
+& \bibentry{Dean:2013agu} \\
+& \bibentry{Aguayo:2013agu} \\
+& \bibentry{Hedrick:2013agu} \\
+& \bibentry{vanWijk:2013agu} \\
+& \bibentry{Trisca:2013agu} \\
+2012 & \bibentry{Kormos:2012agu} \\
+& \bibentry{Deeb:2012agu} \\
+& \bibentry{Evans:2012agu} \\
+2011 & \bibentry{Hopkins:2011agu} \\
+& \bibentry{Havens:2011agu} \\
+& \bibentry{Lutz:2011agu} \\
+& \bibentry{Walters:2011agu} \\
+& \bibentry{Tinkham:2011agu} \\
+& \bibentry{Deeb:2011agu} \\
+& \bibentry{Marshall:2011agu} \\
+& \bibentry{Heilig:2011agu} \\
+& \bibentry{Eiriksson:2011agu} \\
+& \bibentry{Kormos:2011agu} \\
+& \bibentry{Bradford:2011agu} \\
+2010 & \bibentry{Rutter:2010agu} \\
+& \bibentry{Havens:2010agu} \\
+& \bibentry{Tedesco:2010agu} \\
+& \bibentry{Shallcross:2010agu} \\
+& \bibentry{Deems:2010agu} \\
+& \bibentry{Deeb:2010agu} \\
+& \bibentry{Boe:2010agu} \\
+2009 & \bibentry{Steiner:2009agu} \\
+& \bibentry{Anderson:2009agu} \\
+& \bibentry{Marshall:2009agu} \\
+& \bibentry{Shallcross:2009agu} \\
+2009 & \bibentry{Demuth:2009agu} \\
+2008 & \bibentry{Lutz:2008agu} \\
+& \bibentry{McCreight:2008agu} \\
+2007 & \bibentry{Marshall:2007agu2} \\
+& \bibentry{Deeb:2007agu} \\
+2006 & \bibentry{Schneebeli:2006agu} \\
+2003 & \bibentry{Gleason:2003agu} \\
+2002 &  \bibentry{Marshall:2002agu} \\
+& \bibentry{Waddington:2002agu} \\
+2001 & \bibentry{Harper:2001agu} \\
+\end{longtable}
+
+\pagebreak
+
+\section*{BSU Undergraduate Research Symposium, Student Presentations}
+\begin{longtable}{p{0.3in}|p{6.2in}}
+2012 & \bibentry{Burch:2012c} \\
+& \bibentry{PetersonMarshall:2012} \\
+& \bibentry{RobertsonMarshall:2012} \\
+\end{longtable}
+
+
+\section*{Computer Programming Skills}
+\begin{itemize}
+\item Windows, DOS, Macintosh, Unix, Linux operating systems
+\item Matlab (Data Aq., Signal Proc., Statistics, PDE, Wavelet, Symbolic Math Toolboxes),
+\item Developed GUI-driven analysis software for FMCW radar acquisition and processing, snowpit data
+   display, and seismic signal detection of ice quakes.
+\item C++, LaTex, Python, Abaqus, IDL, GPSurvey, LabView, Awk, GMT, Pine, Emacs, Vi
+\item Campbell Scientific data logger communications programs
+\item S+, Mathematica, Surfer, IslandDraw, Excel, Access, Visual Basic
+\item data acquisition, data analysis, signal processing, database management, finite element analysis
+\item low power microcontrollers for ADC/DAC and data logging
+\end{itemize}
+
+\section*{Skills / Certifications}
+\begin{itemize}
+\item Ground Penetrating Radar (monopulse and FMCW, 5 MHz - 18 GHz)
+\item GPS + theodolite survey equipment, SnowMicroPenetrometer
+\item Northwest Avalanche Institute - Level 1 certification (beginning)
+\item Northwest Avalanche Institute - Level 2 certification (advanced)
+\item American Institute for Avalanche Research and Education - Level 1 Instructor Training
+\item CPR for the Professional rescuer
+\item First Responder (EMT program, North Seattle C.C.)
+\item Snow survival and crevasse rescue - U.S. Antarctic Program
+\item experience with snowmobile operation and repair
+\item experience with electronic, metal, and wood-working tools
+\item geophysical instrument design and fabrication
+\end{itemize}
+
+\section*{Volunteer Activities}
+\begin{itemize}
+\item Special Olympics basketball coach (02/15-06/15)
+\item ESL Teacher for refugees (08/09-07/10)
+\item Mentor, Big Brothers / Big Sisters of La Plata County (07/2006-08/2008)
+\item Volunteer high school teacher, Old Crow, Yukon Territory, Canada (1999-2000)
+\item Helped install seismic station on the summit of Mt. Rainier (1999)
+\item Logan School of Learning (2-3rd graders), Field Trip leader to Loveland Pass, CO (2003)
+\item Co-taught 3-day English course to indigenous leaders in southern Chile (2003)
+\item Guest lecturer, Nathan Hale High School Physics class (1999)
+\item Notetaker for Disabled Student Services, University of Washington (1996)
+\item Teen Feed (1995)
+\end{itemize}
+
+
+\section*{Affiliations}
+\begin{itemize}
+\item Member, Snow Radar Algorithm Team, NASA SCLP (2004-present)
+\item International Glaciological Society (IGS)
+\item American Geophysical Union (AGU, Cryophere Representative 2008-2012)
+\item Sigma Xi (Full member)
+\item American Avalanche Association (Research Chair 2005-2011, Professional Member)
+\item American Institute for Avalanche Research and Education (AIARE) Certified Instructor (2003-2004)
+\item American Meteorological Society (Full Member)
+\end{itemize}
+
+
+\section*{Interests / Hobbies}
+\begin{itemize}
+\item Backcountry skiing / snowboarding, mountaineering, rock climbing, basketball, trail running
+\item West African percussion, Flamenco percussion, yoga
+\end{itemize}
+
+
+\setlength{\extrarowheight}{5pt}
+
+
+% Footer
+\bigskip
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today
+  \end{footnotesize}
+\end{center}
+
+\nobibliography{mypubs,ConfPapers,AGU}
+\end{document}

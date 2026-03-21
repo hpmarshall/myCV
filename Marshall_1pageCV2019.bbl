@@ -1,0 +1,41 @@
+\begin{thebibliography}{}
+
+\bibitem[Hedrick et~al., 2018]{Hedrick:2018}
+Hedrick, A., Marks, D., Kormos, P., \textbf{H.P. Marshall}, Havens, S.,
+  Bormann, K., and Painter, T.~H. (2018).
+\newblock Direct insertion of {NASA Airborne Snow Observatory}-derived snow
+  depth time-series into the {iSnobal} energy balance snow model.
+\newblock {\em Water Resources Research}, 54(10):8045--8063.
+
+\bibitem[Lievens et~al., 2019]{Lievens:2019}
+Lievens, H., Demuzere, M., \textbf{H.P. Marshall}, Reichle, R.~H., Brucker, L.,
+  Brangers, I., de~Rosnay, P., Dumont, M., Girotto, M., Immerzeel, W.~W.,
+  Jonas, T., Kim, E.~J., Koch, I., Marty, C., Saloranta, T., Sch{\"o}ber, J.,
+  and Lannoy, G. J.~D. (2019).
+\newblock Snow depth variability in the northern hemisphere mountains observed
+  from space.
+\newblock {\em {Nature Communications}}, 10(1):1--12.
+
+\bibitem[Lund et~al., 2019]{Lund:2019}
+Lund, J., Forster, R.~R., Rupper, S.~B., \textbf{H.P. Marshall}, Deeb, E.~J.,
+  and Hashmi, M. Z. U.~R. (2019).
+\newblock Mapping snowmelt progression in the upper indus basin with synthetic
+  aperture radar.
+\newblock {\em Frontiers in Earth Science}, 7:318.
+
+\bibitem[McGrath et~al., 2019]{McGrath:2019}
+McGrath, D., Webb, R., Shean, D., Bonnell, R., \textbf{H.P. Marshall}, Painter,
+  T., Molotch, N., Elder, K., Hiemstra, C., and Brucker, L. (2019).
+\newblock Spatially extensive ground-penetrating radar snow depth observations
+  during nasa's 2017 snowex campaign: Comparison to in situ, airborne, and
+  satellite observations.
+\newblock {\em Water Resources Research}, 55(11):10026--10036.
+
+\bibitem[\textbf{Marshall, H.P.} et~al., 2015]{Marshall:2015}
+\textbf{Marshall, H.P.}, Hawley, R., and Tedesco, M. (2015).
+\newblock {\em Field measurements for remote sensing of the {c}ryosphere},
+  chapter~14, pages 345--381.
+\newblock Remote Sensing of the Cryosphere. John Wiley \& Sons, Ltd, ed. M.
+  Tedesco.
+
+\end{thebibliography}

@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Marshall_extCV2018_SBIR.aux
+The style file: apalike.bst
+Database file #1: mypubs.bib
+Database file #2: ConfPapers.bib
+Database file #3: AGU.bib
+Warning--there's a number but no volume in McGrath:inreview
+You've used 163 entries,
+            1935 wiz_defined-function locations,
+            1412 strings with 44935 characters,
+and the built_in function-call counts, 68318 in all, are:
+= -- 6212
+> -- 4390
+< -- 31
++ -- 1606
+- -- 1562
+* -- 6232
+:= -- 12680
+add.period$ -- 504
+call.type$ -- 163
+change.case$ -- 1594
+chr.to.int$ -- 147
+cite$ -- 164
+duplicate$ -- 2175
+empty$ -- 3705
+format.name$ -- 1759
+if$ -- 12575
+int.to.chr$ -- 17
+int.to.str$ -- 0
+missing$ -- 159
+newline$ -- 831
+num.names$ -- 489
+pop$ -- 1416
+preamble$ -- 1
+purify$ -- 1596
+quote$ -- 0
+skip$ -- 1674
+stack$ -- 0
+substring$ -- 2999
+swap$ -- 181
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 974
+warning$ -- 1
+while$ -- 401
+width$ -- 0
+write$ -- 2070
+(There was 1 warning)

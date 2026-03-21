@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Marshall_3pageCV_2020.aux
+The style file: apalike.bst
+Database file #1: mypubs.bib
+Database file #2: ConfPapers.bib
+Database file #3: AGU.bib
+You've used 37 entries,
+            1935 wiz_defined-function locations,
+            744 strings with 14495 characters,
+and the built_in function-call counts, 19669 in all, are:
+= -- 1796
+> -- 1356
+< -- 13
++ -- 500
+- -- 498
+* -- 1906
+:= -- 3501
+add.period$ -- 113
+call.type$ -- 37
+change.case$ -- 432
+chr.to.int$ -- 37
+cite$ -- 37
+duplicate$ -- 564
+empty$ -- 1027
+format.name$ -- 539
+if$ -- 3701
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 33
+newline$ -- 188
+num.names$ -- 111
+pop$ -- 378
+preamble$ -- 1
+purify$ -- 434
+quote$ -- 0
+skip$ -- 442
+stack$ -- 0
+substring$ -- 1095
+swap$ -- 98
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 218
+warning$ -- 0
+while$ -- 115
+width$ -- 0
+write$ -- 487

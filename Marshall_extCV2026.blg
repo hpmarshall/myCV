@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Marshall_extCV2026.aux
+The style file: apalike.bst
+Database file #1: mypubs2.bib
+Database file #2: ConfPapers.bib
+Database file #3: AGU.bib
+Database file #4: myDataPubs.bib
+Repeated entry---line 141 of file myDataPubs.bib
+ : @techreport{Hale:2025
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 167 of file myDataPubs.bib
+ : @techreport{Stuefer:2025
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 177 of file myDataPubs.bib
+ : @techreport{McCaslin:2024b
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 187 of file myDataPubs.bib
+ : @techreport{McCaslin:2024
+ :                          ,
+I'm skipping whatever remains of this entry
+You've used 171 entries,
+            1935 wiz_defined-function locations,
+            1520 strings with 52979 characters,
+and the built_in function-call counts, 106020 in all, are:
+= -- 9907
+> -- 6501
+< -- 82
++ -- 2435
+- -- 2396
+* -- 10558
+:= -- 18045
+add.period$ -- 517
+call.type$ -- 171
+change.case$ -- 2051
+chr.to.int$ -- 148
+cite$ -- 171
+duplicate$ -- 2473
+empty$ -- 6277
+format.name$ -- 2591
+if$ -- 20369
+int.to.chr$ -- 24
+int.to.str$ -- 0
+missing$ -- 123
+newline$ -- 859
+num.names$ -- 513
+pop$ -- 1775
+preamble$ -- 1
+purify$ -- 2053
+quote$ -- 0
+skip$ -- 1842
+stack$ -- 0
+substring$ -- 9941
+swap$ -- 348
+text.length$ -- 68
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1020
+warning$ -- 0
+while$ -- 510
+width$ -- 0
+write$ -- 2251
+(There were 4 error messages)

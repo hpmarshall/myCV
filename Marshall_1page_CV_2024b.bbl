@@ -1,0 +1,54 @@
+\begin{thebibliography}{}
+
+\bibitem[Bonnell et~al., 2023]{Bonnell:2023}
+Bonnell, R., McGrath, D., Hedrick, A.~R., Trujillo, E., Meehan, T.~G.,
+  Williams, K., \textbf{Marshall, H.P.}, Sexstone, G., Fulton, J., Ronayne,
+  M.~J., Fassnacht, S.~R., Webb, R.~W., and Hale, K.~E. (2023).
+\newblock Snowpack relative permittivity and density derived from
+  near-coincident lidar and ground-penetrating radar.
+\newblock {\em Hydrological Processes}, 37(10):e14996.
+
+\bibitem[Hedrick et~al., 2018]{Hedrick:2018}
+Hedrick, A., Marks, D., Kormos, P., \textbf{Marshall, H.P.}, Havens, S.,
+  Bormann, K., and Painter, T.~H. (2018).
+\newblock Direct insertion of {NASA Airborne Snow Observatory}-derived snow
+  depth time-series into the {iSnobal} energy balance snow model.
+\newblock {\em Water Resources Research}, 54(10):8045--8063,
+  doi.org/10.1029/2018WR023190.
+
+\bibitem[Hoppinen et~al., 2024]{Hoppinen:2024}
+Hoppinen, Z.~M., Oveisgharan, S., \textbf{Marshall, H.P.}, Mower, R., Elder,
+  K., and Vuyovich, C. (2024).
+\newblock {Snow Water Equivalent Retrieval Over Idaho, Part B: Using L-band
+  UAVSAR Repeat-Pass Interferometry}.
+\newblock {\em The Cryosphere}, 18:575--592, doi.org/10.5194/tc--18--575--2024.
+
+\bibitem[Oveisgharan et~al., 2024]{Oveisgharan:2024}
+Oveisgharan, S., Zinke, R., Hoppinen, Z., and \textbf{Marshall, H.P.} (2024).
+\newblock {Snow Water Equivalent Retrieval Over Idaho, Part A: Using Sentinel-1
+  Repeat-Pass Interferometry}.
+\newblock {\em The Cryosphere}, 18:559--574, doi.org/10.5194/tc--18--559--2024.
+
+\bibitem[Rudisill et~al., 2024]{Rudisill:2024}
+Rudisill, W., Flores, A., \textbf{Marshall, H.P.}, Siirila-Woodburn, E.,
+  Feldman, D., Rhoades, A., Xu, Z., and Morales, A. (2024).
+\newblock Cold-season precipitation sensitivity to microphysical
+  parameterizations: Hydrologic evaluations leveraging snow lidar datasets.
+\newblock {\em Journal of Hydrometeorology}, 25(1):143--160.
+
+\bibitem[Tarricone et~al., 2023]{Tarricone:2023}
+Tarricone, J., Webb, R., \textbf{Marshall, H.P.}, Nolin, A., and Meyer, F.
+  (2023).
+\newblock Estimating snow accumulation and ablation with {L-band InSAR}.
+\newblock {\em The Cryosphere}, 17(5):1997--2019,
+  doi.org/10.5194/tc--17--1997--2023.
+
+\bibitem[\textbf{Marshall, H.P.} et~al., 2021]{Marshall:2021}
+\textbf{Marshall, H.P.}, Deeb, E., Forster, R., Vuyovich, C., Elder, K.,
+  Hiemstra, C., and Lund, J. (2021).
+\newblock {L-band InSAR depth retrieval during the NASA SnowEx 2020 Campaign:
+  Grand Mesa, Colorado}.
+\newblock {\em Proceedings of the International Geoscience and Remote Sensing
+  Symposium (IGARSS)}, pages 625--627, DOI:10.1109/IGARSS47720.2021.9553852.
+
+\end{thebibliography}

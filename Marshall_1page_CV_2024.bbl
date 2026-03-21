@@ -1,0 +1,70 @@
+\begin{thebibliography}{}
+
+\bibitem[Bonnell et~al., 2023]{Bonnell:2023}
+Bonnell, R., McGrath, D., Hedrick, A.~R., Trujillo, E., Meehan, T.~G.,
+  Williams, K., \textbf{Marshall, H.P.}, Sexstone, G., Fulton, J., Ronayne,
+  M.~J., Fassnacht, S.~R., Webb, R.~W., and Hale, K.~E. (2023).
+\newblock Snowpack relative permittivity and density derived from
+  near-coincident lidar and ground-penetrating radar.
+\newblock {\em Hydrological Processes}, 37(10):e14996.
+
+\bibitem[Hojatimalekshah et~al., 2023]{Hojati:2023}
+Hojatimalekshah, A., Gongora, J., Enterkine, J., Glenn, N.~F., Caughlin, T.,
+  \textbf{Marshall, H.P.}, and Hiemstra, C.~A. (2023).
+\newblock Lidar and deep learning reveal forest structural controls on
+  snowpack.
+\newblock {\em Frontiers in Ecology and the Environment}, 21(1):49--54.
+
+\bibitem[Hoppinen et~al., 2023]{Hoppinen:2023}
+Hoppinen, Z., Johnson, J.~B., Capelli, A., Anderson, J.~H., and
+  \textbf{Marshall, H.P.} (2023).
+\newblock Snow attenuation of infrasound signals and wind noise.
+\newblock {\em Seismological Research Letters}, doi:10.1785/0220230048.
+
+\bibitem[Lievens et~al., 2022]{Lievens:2022}
+Lievens, H., Brangers, I., \textbf{Marshall, H.P.}, Jonas, T., Olefs, M., and
+  DeLannoy, G. (2022).
+\newblock Sentinel-1 snow depth retrieval at sub-kilometer resolution over the
+  {European Alps}.
+\newblock {\em The Cryosphere}, 16(1):159--177,
+  doi.org/10.5194/tc--16--159--2022.
+
+\bibitem[Lund et~al., 2022]{Lund:2022}
+Lund, J., Forster, R., Deeb, E., Liston, G., Skiles, M., and \textbf{Marshall,
+  H.P.} (2022).
+\newblock Interpreting sentinel-1 sar backscatter signals of snowpack surface
+  melt/freeze, warming, and ripening, through field measurements and
+  physically-based snowmodel.
+\newblock {\em Remote Sensing}, 14:4002, https://doi.org/10.3390/rs14164002.
+
+\bibitem[McDowell et~al., 2023]{McDowell:2023}
+McDowell, I.~E., Keegan, K.~M., Wever, N., Osterberg, E.~C., Hawley, R.~L., and
+  \textbf{Marshall, H.P.} (2023).
+\newblock Firn core evidence of two‐way feedback mechanisms between meltwater
+  infiltration and firn microstructure from the western percolation zone of the
+  greenland ice sheet.
+\newblock {\em Journal of Geophysical Research: Earth Surface},
+  128(2):e2022JF006752.
+
+\bibitem[McGrath et~al., 2022]{McGrath:2022}
+McGrath, D., Bonnell, R., Zeller, L., Olsen-Mikitowicz, A., Bump, E., Webb, R.,
+  and \textbf{Marshall, H.P.} (2022).
+\newblock A time-series of snow density and snow water equivalent observations
+  derived from the integration of gpr and uav sfm observations.
+\newblock {\em Frontiers in Remote Sensing}, 3:886747,
+  doi:10.3389/frsen.2022.886747.
+
+\bibitem[Rudisill et~al., 2024]{Rudisill:2024}
+Rudisill, W., Flores, A., \textbf{Marshall, H.P.}, Siirila-Woodburn, E.,
+  Feldman, D., Rhoades, A., Xu, Z., and Morales, A. (2024).
+\newblock Cold-season precipitation sensitivity to microphysical
+  parameterizations: Hydrologic evaluations leveraging snow lidar datasets.
+\newblock {\em Journal of Hydrometeorology}, 25(1):143--160.
+
+\bibitem[Tarricone et~al., 2023]{Tarricone:2023}
+Tarricone, J., Webb, R., \textbf{Marshall, H.P.}, Nolin, A., and Meyer, F.
+  (2023).
+\newblock Estimating snow accumulation and ablation with l-band insar.
+\newblock {\em The Cryosphere}, 17(5):1997--2019.
+
+\end{thebibliography}

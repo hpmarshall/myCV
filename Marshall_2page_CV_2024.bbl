@@ -1,0 +1,91 @@
+\begin{thebibliography}{}
+
+\bibitem[Bonnell et~al., 2023]{Bonnell:2023}
+Bonnell, R., McGrath, D., Hedrick, A.~R., Trujillo, E., Meehan, T.~G.,
+  Williams, K., \textbf{Marshall, H.P.}, Sexstone, G., Fulton, J., Ronayne,
+  M.~J., Fassnacht, S.~R., Webb, R.~W., and Hale, K.~E. (2023).
+\newblock Snowpack relative permittivity and density derived from
+  near-coincident lidar and ground-penetrating radar.
+\newblock {\em Hydrological Processes}, 37(10):e14996.
+
+\bibitem[Heilig et~al., 2015]{Heilig:2015}
+Heilig, A., Mitterer, C., Schmid, L., Wever, N., Schweizer, J.,
+  \textbf{Marshall, H.P.}, and Eisen, O. (2015).
+\newblock Seasonal and diurnal cycles of liquid water in snow-measurements and
+  modeling.
+\newblock {\em Journal of Geophysical Research-Earth Surface},
+  120(10):2139--2154.
+
+\bibitem[Hoppinen et~al., 2023]{Hoppinen:2023}
+Hoppinen, Z., Johnson, J.~B., Capelli, A., Anderson, J.~H., and
+  \textbf{Marshall, H.P.} (2023).
+\newblock Snow attenuation of infrasound signals and wind noise.
+\newblock {\em Seismological Research Letters}, doi:10.1785/0220230048.
+
+\bibitem[Lewis et~al., 2017]{Lewis:2017}
+Lewis, G., Osterberg, E., Hawley, R., Whitmore, B., \textbf{Marshall, H.P.},
+  and Box, J. (2017).
+\newblock {Regional Greenland accumulation variability from Operation IceBridge
+  airborne accumulation radar}.
+\newblock {\em The Cryosphere}, 11(2):773.
+
+\bibitem[Lievens et~al., 2022]{Lievens:2022}
+Lievens, H., Brangers, I., \textbf{Marshall, H.P.}, Jonas, T., Olefs, M., and
+  DeLannoy, G. (2022).
+\newblock Sentinel-1 snow depth retrieval at sub-kilometer resolution over the
+  {European Alps}.
+\newblock {\em The Cryosphere}, 16(1):159--177,
+  doi.org/10.5194/tc--16--159--2022.
+
+\bibitem[Lievens et~al., 2019]{Lievens:2019}
+Lievens, H., Demuzere, M., \textbf{Marshall, H.P.}, Reichle, R.~H., Brucker,
+  L., Brangers, I., de~Rosnay, P., Dumont, M., Girotto, M., Immerzeel, W.~W.,
+  Jonas, T., Kim, E.~J., Koch, I., Marty, C., Saloranta, T., Sch{\"o}ber, J.,
+  and Lannoy, G. J.~D. (2019).
+\newblock Snow depth variability in the northern hemisphere mountains observed
+  from space.
+\newblock {\em {Nature Communications}}, 10(1):1--12.
+
+\bibitem[Lund et~al., 2022]{Lund:2022}
+Lund, J., Forster, R., Deeb, E., Liston, G., Skiles, M., and \textbf{Marshall,
+  H.P.} (2022).
+\newblock Interpreting sentinel-1 sar backscatter signals of snowpack surface
+  melt/freeze, warming, and ripening, through field measurements and
+  physically-based snowmodel.
+\newblock {\em Remote Sensing}, 14:4002, https://doi.org/10.3390/rs14164002.
+
+\bibitem[McGrath et~al., 2022]{McGrath:2022}
+McGrath, D., Bonnell, R., Zeller, L., Olsen-Mikitowicz, A., Bump, E., Webb, R.,
+  and \textbf{Marshall, H.P.} (2022).
+\newblock A time-series of snow density and snow water equivalent observations
+  derived from the integration of gpr and uav sfm observations.
+\newblock {\em Frontiers in Remote Sensing}, 3:886747,
+  doi:10.3389/frsen.2022.886747.
+
+\bibitem[McGrath et~al., 2019]{McGrath:2019}
+McGrath, D., Webb, R., Shean, D., Bonnell, R., \textbf{Marshall, H.P.},
+  Painter, T., Molotch, N., Elder, K., Hiemstra, C., and Brucker, L. (2019).
+\newblock {Spatially extensive ground-penetrating radar snow depth observations
+  during NASA's 2017 SnowEx Campaign: Comparison to in situ, airborne, and
+  satellite observations}.
+\newblock {\em Water Resources Research}, 55(11):10026--10036,
+  doi:10.1029/2019WR024907.
+
+\bibitem[Tarricone et~al., 2023]{Tarricone:2023}
+Tarricone, J., Webb, R., \textbf{Marshall, H.P.}, Nolin, A., and Meyer, F.
+  (2023).
+\newblock Estimating snow accumulation and ablation with l-band insar.
+\newblock {\em The Cryosphere}, 17(5):1997--2019.
+
+\bibitem[\textbf{Marshall, H.P.} and Koh, 2008]{Marshall:2008}
+\textbf{Marshall, H.P.} and Koh, G. (2008).
+\newblock {FMCW} radars for snow research.
+\newblock {\em Cold Regions Science and Technology}, 52(2):118--131.
+
+\bibitem[\textbf{Marshall, H.P.} et~al., 2007]{Marshall:2007}
+\textbf{Marshall, H.P.}, Schneebeli, M., and Koh, G. (2007).
+\newblock Snow stratigraphy measurements with high-frequency {FMCW} radar:
+  Comparison with snow micro-penetrometer.
+\newblock {\em Cold Regions Science and Technology}, 47(1-2):108--117.
+
+\end{thebibliography}

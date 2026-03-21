@@ -1,0 +1,130 @@
+\begin{thebibliography}{}
+
+\bibitem[Aberle et~al., 2023]{Aberle:2023}
+Aberle, R., Enderlin, E.~M., Marshall, H.-P., Kopera, M., and Meehan, T.~G.
+  (2023).
+\newblock Assessing controls on ice dynamics at crane glacier, antarctic
+  peninsula, using a numerical ice flow model.
+\newblock {\em Journal of Glaciology}, 69(277):1109--1124.
+
+\bibitem[Bonnell et~al., 2023]{Bonnell:2023}
+Bonnell, R., McGrath, D., Hedrick, A.~R., Trujillo, E., Meehan, T.~G.,
+  Williams, K., Marshall, H.-P., Sexstone, G., Fulton, J., Ronayne, M.~J.,
+  Fassnacht, S.~R., Webb, R.~W., and Hale, K.~E. (2023).
+\newblock Snowpack relative permittivity and density derived from
+  near-coincident lidar and ground-penetrating radar.
+\newblock {\em Hydrological Processes}, 37(10):e14996.
+
+\bibitem[Hojatimalekshah et~al., 2023]{Hojati:2023}
+Hojatimalekshah, A., Gongora, J., Enterkine, J., Glenn, N.~F., Caughlin, T.,
+  \textbf{Marshall, H.P.}, and Hiemstra, C.~A. (2023).
+\newblock Lidar and deep learning reveal forest structural controls on
+  snowpack.
+\newblock {\em Frontiers in Ecology and the Environment}, 21(1):49--54.
+
+\bibitem[Hoppinen et~al., 2023]{Hoppinen:2023}
+Hoppinen, Z., Johnson, J.~B., Capelli, A., Anderson, J.~H., and
+  \textbf{Marshall, H.P.} (2023).
+\newblock Snow attenuation of infrasound signals and wind noise.
+\newblock {\em Seismological Research Letters}, doi:10.1785/0220230048.
+
+\bibitem[Lemmetyinen et~al., 2022]{Lemmetyinen:2022}
+Lemmetyinen, J., Cohen, J., Kontu, A., Hannula, J. V.~H., Merkouriadi, I.,
+  Scheiblauer, S., Rott, H., Nagler, T., Ripper, E., Elder, K.,
+  \textbf{Marshall, H.P.}, Fromm, R., Adams, M., Derksen, C., King, J., Meta,
+  A., Coccia, A., Rutter, N., Sandells, M., Macelloni, G., Santi, E.,
+  Leduc-Leballeur, M., Essery, R., Menard, C., and Kern, M. (2022).
+\newblock Airborne snowsar data at x- and ku- bands over boreal forest, alpine
+  and tundra snow cover.
+\newblock {\em Earth Syst. Sci. Data}, 14(9):3915--3945.
+
+\bibitem[Lievens et~al., 2022]{Lievens:2022}
+Lievens, H., Brangers, I., \textbf{Marshall, H.P.}, Jonas, T., Olefs, M., and
+  DeLannoy, G. (2022).
+\newblock Sentinel-1 snow depth retrieval at sub-kilometer resolution over the
+  {European Alps}.
+\newblock {\em The Cryosphere}, 16(1):159--177,
+  doi.org/10.5194/tc--16--159--2022.
+
+\bibitem[Lievens et~al., 2019]{Lievens:2019}
+Lievens, H., Demuzere, M., \textbf{Marshall, H.P.}, Reichle, R.~H., Brucker,
+  L., Brangers, I., de~Rosnay, P., Dumont, M., Girotto, M., Immerzeel, W.~W.,
+  Jonas, T., Kim, E.~J., Koch, I., Marty, C., Saloranta, T., Sch{\"o}ber, J.,
+  and Lannoy, G. J.~D. (2019).
+\newblock Snow depth variability in the northern hemisphere mountains observed
+  from space.
+\newblock {\em {Nature Communications}}, 10(1):1--12.
+
+\bibitem[Lund et~al., 2022]{Lund:2022}
+Lund, J., Forster, R., Deeb, E., Liston, G., Skiles, M., and \textbf{Marshall,
+  H.P.} (2022).
+\newblock Interpreting sentinel-1 sar backscatter signals of snowpack surface
+  melt/freeze, warming, and ripening, through field measurements and
+  physically-based snowmodel.
+\newblock {\em Remote Sensing}, 14:4002, https://doi.org/10.3390/rs14164002.
+
+\bibitem[Lund et~al., 2020]{Lund:2020}
+Lund, J., Forster, R.~R., Rupper, S.~B., \textbf{Marshall, H.P.}, Deeb, E.~J.,
+  and Hashmi, M. (2020).
+\newblock Mapping snowmelt progression in the upper indus basin with synthetic
+  aperture radar.
+\newblock {\em Frontiers in Earth Science}, 7:318,
+  doi:10.3389/feart.2019.00318.
+
+\bibitem[McDowell et~al., 2023]{McDowell:2023}
+McDowell, I.~E., Keegan, K.~M., Wever, N., Osterberg, E.~C., Hawley, R.~L., and
+  \textbf{Marshall, H.P.} (2023).
+\newblock Firn core evidence of two‐way feedback mechanisms between meltwater
+  infiltration and firn microstructure from the western percolation zone of the
+  greenland ice sheet.
+\newblock {\em Journal of Geophysical Research: Earth Surface},
+  128(2):e2022JF006752.
+
+\bibitem[McGrath et~al., 2022]{McGrath:2022}
+McGrath, D., Bonnell, R., Zeller, L., Olsen-Mikitowicz, A., Bump, E., Webb, R.,
+  and \textbf{Marshall, H.P.} (2022).
+\newblock A time-series of snow density and snow water equivalent observations
+  derived from the integration of gpr and uav sfm observations.
+\newblock {\em Frontiers in Remote Sensing}, 3:886747,
+  doi:10.3389/frsen.2022.886747.
+
+\bibitem[Meehan et~al., 2021]{Meehan:2021}
+Meehan, T.~G., \textbf{Marshall, H.P.}, Bradford, J.~H., Hawley, R.~L., Overly,
+  T.~B., Lewis, G., Graeter, K., Osterburg, E., and McCarthy, F. (2021).
+\newblock Historical surface mass balance reconstruction 1984-2017 from
+  greentracs multi-offset ground-penetrating radar.
+\newblock {\em Journal of Glaciology}, 67(262):219--228,
+  doi:10.1017/jog.2020.91.
+
+\bibitem[Rudisill et~al., pted]{Rudisill:2023}
+Rudisill, W., Flores, A., Marshall, H.-P., Siirila-Woodburn, E., Feldman, D.,
+  Rhoades, A., Xu, Z., and Morales, A. (accepted).
+\newblock Cold-season precipitation sensitivity to microphysical
+  parameterizations: Hydrologic evaluations leveraging snow lidar datasets.
+\newblock {\em Journal of Hydrometeorology}.
+
+\bibitem[Tarricone et~al., 2023]{Tarricone:2023}
+Tarricone, J., Webb, R., \textbf{Marshall, H.P.}, Nolin, A., and Meyer, F.
+  (2023).
+\newblock Estimating snow accumulation and ablation with l-band insar.
+\newblock {\em The Cryosphere}, 17(5):1997--2019.
+
+\bibitem[\textbf{Marshall, H.P.} et~al., 2021]{Marshall:2021}
+\textbf{Marshall, H.P.}, Deeb, E., Forster, R., Vuyovich, C., Elder, K.,
+  Hiemstra, C., and Lund, J. (2021).
+\newblock {L-band InSAR depth retrieval during the NASA SnowEx 2020 Campaign:
+  Grand Mesa, Colorado}.
+\newblock {\em Proceedings of the International Geoscience and Remote Sensing
+  Symposium (IGARSS)}, pages 625--627, DOI:10.1109/IGARSS47720.2021.9553852.
+
+\bibitem[Tsang et~al., 2022]{Tsang:2022}
+Tsang, L., Durand, M., Derksen, C., Barros, A.~P., Kang, D.-H., Lievens, H.,
+  \textbf{Marshall, H.P.}, Zhu, J., Johnson, J., King, J., Lemmetyinen, J.,
+  Sandells, M., Rutter, N., Siqueira, P., Nolin, A., Osmanoglu, B., Vuyovich,
+  C., Kim, E.~J., Taylor, D., Merkouriadi, I., Brucker, L., Navari, M., Dumont,
+  M., Kelly, R., Kim, R.~S., Liao, T.-H., and Xu, X. (2022).
+\newblock Review article: Global monitoring of snow water equivalent using high
+  frequency radar remote sensing.
+\newblock {\em The Cryosphere}, 16(9):3531--3573.
+
+\end{thebibliography}
