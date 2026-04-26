@@ -6,44 +6,44 @@ Database file #1: mypubs2.bib
 Database file #2: ConfPapers.bib
 Database file #3: AGU.bib
 Database file #4: myDataPubs.bib
-You've used 176 entries,
+You've used 180 entries,
             1935 wiz_defined-function locations,
-            1546 strings with 54311 characters,
-and the built_in function-call counts, 108352 in all, are:
-= -- 10114
-> -- 6671
-< -- 86
-+ -- 2503
-- -- 2458
-* -- 10787
-:= -- 18481
-add.period$ -- 532
-call.type$ -- 176
-change.case$ -- 2107
-chr.to.int$ -- 149
-cite$ -- 176
-duplicate$ -- 2536
-empty$ -- 6389
-format.name$ -- 2658
-if$ -- 20791
+            1574 strings with 55484 characters,
+and the built_in function-call counts, 110404 in all, are:
+= -- 10307
+> -- 6788
+< -- 87
++ -- 2549
+- -- 2500
+* -- 10974
+:= -- 18829
+add.period$ -- 544
+call.type$ -- 180
+change.case$ -- 2148
+chr.to.int$ -- 153
+cite$ -- 180
+duplicate$ -- 2607
+empty$ -- 6509
+format.name$ -- 2704
+if$ -- 21192
 int.to.chr$ -- 28
 int.to.str$ -- 0
-missing$ -- 124
-newline$ -- 884
-num.names$ -- 528
-pop$ -- 1823
+missing$ -- 128
+newline$ -- 904
+num.names$ -- 540
+pop$ -- 1859
 preamble$ -- 1
-purify$ -- 2109
+purify$ -- 2150
 quote$ -- 0
-skip$ -- 1882
+skip$ -- 1942
 stack$ -- 0
-substring$ -- 10045
-swap$ -- 353
-text.length$ -- 72
+substring$ -- 10178
+swap$ -- 372
+text.length$ -- 73
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1050
+type$ -- 1074
 warning$ -- 0
-while$ -- 522
+while$ -- 535
 width$ -- 0
-write$ -- 2317
+write$ -- 2369

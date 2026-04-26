@@ -71,6 +71,12 @@ Alabi, I., \textbf{Marshall, H.P.}, Mead, J., and Trujillo, E. (2025).
 \newblock {\em Frontiers in Remote Sensing}, 5:1481848, DOI:
   10.3389/frsen.2024.1481848.
 
+\bibitem[Alabi et~al., 2026]{Alabi:2026}
+Alabi, I.~O., \textbf{Marshall, H.P.}, Mead, J., and Trujillo, E. (2026).
+\newblock A machine learning model for estimating snow density and snow water
+  equivalent from snow depth and seasonal snow climate classes.
+\newblock {\em Artificial Intelligence for the Earth Systems}, page e250021.
+
 \bibitem[Anderson et~al., 2014]{Anderson:2014}
 Anderson, B.~T., McNamara, J.~P., \textbf{Marshall, H.P.}, and Flores, A.~N.
   (2014).
@@ -282,8 +288,8 @@ Deeb, E.~J., \textbf{Marshall, H.P.}, Forster, R.~R., Jones, C.~E., Hiemstra,
 \bibitem[Detre et~al., 2025]{Detre:2025}
 Detre, A., McGrath, D., Gagliano, E., Bonnell, R., Webb, R., \textbf{Marshall,
   H.P.}, and Shean, D. (2025).
-\newblock Sentinel‐1 sar estimates of snowmelt onset coincide with snotel
-  soil moisture pulses across the western united states.
+\newblock Sentinel-1 {SAR} estimates of snowmelt onset coincide with snotel
+  soil mois- ture pulses across the {Western United States}.
 \newblock {\em Hydrological Processes}, 39(12):e70341, DOI: 10.1002/hyp.70341.
 
 \bibitem[Durand and \textbf{Marshall, H.P.}, 2025]{Durand:2025}
@@ -465,6 +471,15 @@ Hojatimalekshah, A., Uhlmann, Z., Glenn, N.~F., Hiemstra, C.~A., Tennant,
   terrestrial laser scanning.
 \newblock {\em The Cryosphere}, 15(5):2187--2209,
   doi:10.5194/tc--15--2187--2021.
+
+\bibitem[Holland-Goon et~al., 2026]{Holland-Goon:2026}
+Holland-Goon, K., Bonnell, R., McGrath, D., Baxter, W.~B., Meehan, T., Webb,
+  R., Larsen, C.~F., \textbf{Marshall, H.P.}, Mason, M., and Vuyovich, C.
+  (2026).
+\newblock Evaluating snow depth measurements from ground-penetrating radar and
+  airborne lidar in boreal forest and tundra environments during the nasa
+  snowex 2023 campaign.
+\newblock {\em The Cryosphere}, 20(4):2169--2179.
 
 \bibitem[Hoppinen et~al., 2023]{Hoppinen:2023}
 Hoppinen, Z., Johnson, J.~B., Capelli, A., Anderson, J.~H., and
@@ -699,7 +714,7 @@ Lund, J., Forster, R.~R., Rupper, S.~B., \textbf{Marshall, H.P.}, Deeb, E.~J.,
 Lutz, E., Birkeland, K., and \textbf{Marshall, H.P.} (2009).
 \newblock Quantifying changes in weak layer microstructure associated with
   artificial load changes.
-\newblock {\em Cold Regions Science and Technology}, 59(2-3):202--209.
+\newblock {\em Cold Regions Science and Technology}, 59(2--3):202--209.
 
 \bibitem[Mason et~al., 2025]{Mason:2025b}
 Mason, M., Hoppinen, Z., and \textbf{Marshall, H.P.} (2025).
@@ -785,6 +800,13 @@ McCaslin, J.~C., Mikesell, T.~D., and \textbf{Marshall, H.P.} (2024c).
   in granular ice mixes.
 \newblock {\em Cold Regions Science and Technology}, 221:104157,
   doi.org/10.1016/j.coldregions.2024.104157.
+
+\bibitem[McCaslin et~al., 2026]{McCaslin:2026}
+McCaslin, J.~C., Mikesell, T.~D., \textbf{Marshall, H.P.}, and Courville, Z.
+  (2026).
+\newblock Observing the effect of morphology on the elastic properties of new
+  snow using a non-contacting laser ultrasound system.
+\newblock {\em Journal of Glaciology}, 72(3):e37.
 
 \bibitem[McCreight et~al., 2014]{McCreight:2014}
 McCreight, J.~L., Slater, A.~G., \textbf{Marshall, H.P.}, and Rajagopalan, B.
@@ -933,6 +955,13 @@ Mulders, J.~V., Vandenbroucke, J., Mareschal, M., Cox, B., Tronquo, E.,
 \newblock Design and implementation of an {SFCW} radar platform for
   environmental monitoring.
 \newblock {\em Journal of Non-Destructive Testing}, 4(1):6.
+
+\bibitem[Ofekeze et~al., 2026]{Ofekeze:2026}
+Ofekeze, E., Johnson, J.~B., and \textbf{Marshall, H.P.} (2026).
+\newblock A deep learning approach for infrasound signal detection in
+  snow-covered terrain.
+\newblock {\em The Journal of the Acoustical Society of America},
+  159(3):2795--2809.
 
 \bibitem[O'Neel et~al., 2007]{ONeel:2007}
 O'Neel, S., \textbf{Marshall, H.P.}, McNamara, D.~E., and Pfeffer, W.~T.
